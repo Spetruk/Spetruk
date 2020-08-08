@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there I'm Sergey 👋
 
-<!--
-**Spetruk/Spetruk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=rounded-square&logo=twitter&logoColor=white&link=https://twitter.com/Spetruk)](https://twitter.com/Spetruk) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm **Team Lead**, **Software Architect** and **Senior iOS Developer** at at [@Qiwi](http://qiwi.com/)
+I have 5 years of working in fintech and over 10 years of developing.
+
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I'm currently a **Team Lead** at [@Qiwi](http://qiwi.com/) working on [Qiwi Wallet ](https://apps.apple.com/ru/app/id350905609);
+- 🌱 I'm currently learning **Kotlin Native**; 
+- 🤔 I'm interested in **iOS**, **Cross-Platform Development e.g. Kotlin Native, React Native, Unity**, etc..;
+- 📫 Please email via spetruk.developer@gmail.com to reach me.  
